@@ -1,0 +1,10 @@
+{
+  "workbench.colorTheme": "Noctis Viola",
+  "workbench.iconTheme": "flow-dim",
+  "editor.tokenColorCustomizations": {
+    "[Noctis Viola]": {
+      "comments": "#bca7f7",
+      "strings":  "#f5a6c4",
+    }
+  }
+}
