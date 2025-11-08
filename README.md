@@ -8,4 +8,4 @@ My customized Noctis Viola setup with pink strings, lavender comments and pretty
 - **String:**  *color-* `Muted Strawberry Pink` #f5a6c4 <br>
 - *i would change it more in future! just wanted to keep track of it^.^* <br>
 ## anyway....
-- this is just a theme that goes easyyyy on my eyes
+- this is just a theme that goes easy on my eyes
